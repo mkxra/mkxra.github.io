@@ -1,0 +1,18 @@
+body {
+    width: 980px;
+    margin: 10px;
+    font-family: Verdana;
+    line-height: 1.5;
+    background-color: aqua;
+    color: black;
+}
+h1 {
+    text-align: left;
+    font-size: 36px;
+    margin-bottom: 0;
+}
+h2 {
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 0;
+}
